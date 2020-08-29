@@ -1,0 +1,13 @@
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.exe
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.deps.json
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.runtimeconfig.json
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.runtimeconfig.dev.json
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.dll
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\bin\Debug\netcoreapp3.1\MeachamsLair.pdb
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.csprojAssemblyReference.cache
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.AssemblyInfoInputs.cache
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.AssemblyInfo.cs
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.csproj.CoreCompileInputs.cache
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.dll
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.pdb
+C:\Users\meach\source\repos\MeachamsLair\MeachamsLair\obj\Debug\netcoreapp3.1\MeachamsLair.genruntimeconfig.cache
